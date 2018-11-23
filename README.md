@@ -3,7 +3,7 @@
 <h2>Abstract</h2>
 <i>
 The 0/1 knapsack problem is weakly NP-hard in that there exist pseudo-polynomial time algorithms based on dynamic programming that can solve it exactly. There are also the core branch and bound algorithms that can solve large randomly generated instances in a very short amount of time. However, as the correlation between the variables is increased, the difficulty of the problem increases. Recently a new class of knapsack problems was introduced by D. Pisinger [1] called the spanner knapsack instances. These instances are unsolvable by the core branch and bound instances; and as the size of the coefficients and the capacity constraint increase, the spanner instances are unsolvable even by dynamic programming based algorithms. In this paper, a genetic algorithm is presented for spanner knapsack instances. Results show that the algorithm is capable of delivering optimum solutions within a reasonable amount of computational duration.</i>
-<br>
+<br><br>
 <b><a href="gaknapsack.pdf">Genetic Algorithm for a class of Knapsack Problems</a></b>
 <br>
 <h2>References</h2>
