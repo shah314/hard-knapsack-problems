@@ -1,5 +1,7 @@
 <h1>Genetic Algorithm for a class of Knapsack Problems</h1>
 
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-3770-1391" href="https://orcid.org/0000-0002-3770-1391" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-3770-1391</a></div>
+
 <h2>Abstract</h2>
 <i>
 The 0/1 knapsack problem is weakly NP-hard in that there exist pseudo-polynomial time algorithms based on dynamic programming that can solve it exactly. There are also the core branch and bound algorithms that can solve large randomly generated instances in a very short amount of time. However, as the correlation between the variables is increased, the difficulty of the problem increases. Recently a new class of knapsack problems was introduced by D. Pisinger [1] called the spanner knapsack instances. These instances are unsolvable by the core branch and bound instances; and as the size of the coefficients and the capacity constraint increase, the spanner instances are unsolvable even by dynamic programming based algorithms. In this paper, a genetic algorithm is presented for spanner knapsack instances. Results show that the algorithm is capable of delivering optimum solutions within a reasonable amount of computational duration.</i>
